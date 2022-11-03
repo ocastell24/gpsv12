@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gpsv12-staging-04934-authRole",
+      "UnauthRoleArn": "arn:aws:iam::670391868519:role/amplify-gpsv12-staging-04934-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::670391868519:role/amplify-gpsv12-staging-04934-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-gpsv12-staging-04934-deployment",
+      "UnauthRoleName": "amplify-gpsv12-staging-04934-unauthRole",
+      "StackName": "amplify-gpsv12-staging-04934",
+      "StackId": "arn:aws:cloudformation:us-east-2:670391868519:stack/amplify-gpsv12-staging-04934/38411d50-5a48-11ed-ab75-06fda7330bd6",
+      "AmplifyAppId": "d1fj6pzrb4gikx"
+    },
+    "categories": {
+      "auth": {
+        "gpsv12": {}
+      }
+    }
+  }
+}
